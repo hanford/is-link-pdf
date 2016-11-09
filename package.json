@@ -1,0 +1,30 @@
+{
+  "name": "is-link-pdf",
+  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Detect if image link contains .pdf",
+  "license": "MIT",
+  "repository": "hanford/is-link-pdf",
+  "author": {
+    "name": "Jack Hanford",
+    "email": "jackhanford@gmail.com",
+    "url": "http://jackhanford.com"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "pdf",
+    "image link",
+    "file type",
+    "is-pdf",
+    "is link pdf"
+  ],
+  "devDependencies": {
+    "standard": "^6.0.0",
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {}
+}
